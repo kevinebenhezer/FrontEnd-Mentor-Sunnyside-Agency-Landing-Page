@@ -48,7 +48,7 @@ header {
 	text-align: center;
 	padding: 2rem;
 	height: 100vh;
-	background: url("./desktop-image-header.jpg"d);
+	background: url("./desktop-image-header.jpg");
 	background-position: center 0;
 	background-size: cover;
 }
