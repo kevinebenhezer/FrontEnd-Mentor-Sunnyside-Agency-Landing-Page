@@ -48,7 +48,7 @@ header {
 	text-align: center;
 	padding: 2rem;
 	height: 100vh;
-	background: url(./images/desktop/desktop-image-header.jpg);
+	background: url("./desktop-image-header.jpg"d);
 	background-position: center 0;
 	background-size: cover;
 }
@@ -252,7 +252,7 @@ main .first-grid-container {
 	flex-direction: column;
 	justify-content: flex-end;
 	align-items: center;
-	background: url(./images/desktop/desktop-image-graphic-design.jpg);
+	background: url("./desktop-image-graphic-design.jpg");
 }
 
 .item.five .item-five-body {
@@ -267,7 +267,7 @@ main .first-grid-container {
 	flex-direction: column;
 	justify-content: flex-end;
 	align-items: center;
-	background: url(./images/desktop/desktop-image-photography.jpg);
+	background: url("./desktop-image-photography.jpg");
 }
 
 .item.six .item-six-body {
@@ -398,7 +398,7 @@ footer .footer-navbar {
 
 	header {
 		height: 70vh;
-		background: url(./images/mobile/mobile-image-header.jpg);
+		background: url("./mobile-image-header.jpg");
 		background-position: center;
 		background-size: cover;
 		padding-inline: 1.5rem;
@@ -554,7 +554,7 @@ footer .footer-navbar {
 	}
 
 	.first-grid-container .item.five {
-		background: url(./images/mobile/mobile-image-graphic-design.jpg);
+		background: url("./mobile-image-graphic-design.jpg");
 		background-position: center;
 		background-size: cover;
 		width: 100%;
@@ -578,7 +578,7 @@ footer .footer-navbar {
 	}
 
 	.first-grid-container .item.six {
-		background: url(./images/mobile/mobile-image-photography.jpg);
+		background: url("./mobile-image-photography.jpg");
 		background-position: center;
 		background-size: cover;
 		width: 100%;
